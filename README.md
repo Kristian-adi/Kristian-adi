@@ -17,7 +17,6 @@
   </h1>
 </div>
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ..
 - 💬 Ask me about ...
