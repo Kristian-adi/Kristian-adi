@@ -11,8 +11,10 @@
       </a>
     </div>
 
-  <h1 align="center">
-    Hey There
+  <h3 align="left">
+    Hey There </h3>
+    <h1 align="left">
+      I'm Kristian Adi
     <img src="https://i.gifer.com/39Cg.gif" width="30"/>
   </h1>
 </div>
